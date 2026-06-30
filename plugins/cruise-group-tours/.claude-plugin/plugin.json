@@ -1,0 +1,8 @@
+{
+  "name": "cruise-group-tours",
+  "description": "为团体旅行提供邮轮产品，满足团队的多样化需求。",
+  "version": "0.1.0",
+  "author": {
+    "name": "craftwave"
+  }
+}
